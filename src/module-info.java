@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Banti
+ *
+ */
+module coreJavaByRahulShetty {
+}
